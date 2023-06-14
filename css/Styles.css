@@ -1,0 +1,146 @@
+@charset "utf-8";
+
+.container #accordion1 .card {
+    background-color: #B15454;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #6438E3;
+}
+#accordion1 .card #headingTwo1 {
+    color: #6438E3;
+}
+
+
+.card #collapseOne1 .card-body {
+    background-color: #010101;
+}
+.card #collapseThree1 .card-body {
+    background-color: #030303;
+}
+.card #collapseOne2 .card-body {
+    background-color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #6438E3;
+
+}
+#headingTwo1 .mb-0 .collapsed {
+}
+
+
+
+
+
+.container-fluid .container #accordion1 {
+    background-color: #FDC3F2;
+}
+
+.container-fluid {
+    background-color: #FDC3F2;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .nav-link.font-weight-bold {
+    color: #6438E3;
+}
+.container-fluid .container footer {
+    background-color: #FDC3F2;
+}
+footer .row .col-lg-3 {
+    color: #000000;
+}
+footer .row .col-lg-6 {
+    color: #0B0B0B;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler {
+    background-color: #D86FC8;
+}
+
+
+
+
+
+
+
+
+
+@media screen{
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(253,195,242,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(253,195,242,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(253,195,242,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(253,195,242,1.00) 100%,rgba(255,0,0,1.00) 100%);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .nav-link.font-weight-bolder {
+    color: #6438E3;
+}
+.card #collapseOne1 .card-body {
+    background-color: #111112;
+}
+
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light #navbarSupportedContent1 .nav-link.font-weight-bolder {
+}
+
+
+.container .row .card.col-md-4.col-lg-3 {
+    background-color: #B15F5F;
+}
+.navbar-nav.mr-auto .nav-item .nav-link.font-weight-bolder {
+    color: #4C38CB;
+}
+.container .text-center.text-uppercase strong {
+    color: #2C14C8;
+}
+
+
+.card.col-md-4.col-lg-3 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+
+
+.row .col-lg-3 .card.col-md-4.col-lg-12 {
+    background-color: #B15F5F;
+}
+
+
+
+
+
+
+
+
+}
+
+.card #collapseOne1 .card-body {
+    color: #E7E7E7;
+}
+.card #collapseOne2 .card-body {
+    color: #F5F0F0;
+}
+.card #collapseThree1 .card-body {
+    color: #F1E9E9;
+}
+.card #collapseTwo1 .card-body {
+    color: #F4E138;
+    background-color: #000000;
+}
+#headingOne1 .mb-0 a {
+    color: #EBF733;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #EBF733;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #EBF733;
+}
+#headingThree3 .mb-0 .collapsed {
+    color: #EBF733;
+}
+.card #collapseOne1 .card-body {
+}
+.card #collapseTwo1 .card-body {
+    color: #E8E8E8;
+}
